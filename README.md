@@ -36,8 +36,8 @@ MMM_Mediation_Assessment/
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-name>
+git clone https://github.com/snehasivak/MMM_Modeling.git
+cd MMM_Modeling
 ```
 
 ### 2. Install dependencies
